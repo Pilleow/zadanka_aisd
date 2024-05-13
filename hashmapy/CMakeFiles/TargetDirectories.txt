@@ -1,0 +1,3 @@
+/home/igor/Documents/code/cpp/uj/hashmapy/CMakeFiles/hashmapy.dir
+/home/igor/Documents/code/cpp/uj/hashmapy/CMakeFiles/edit_cache.dir
+/home/igor/Documents/code/cpp/uj/hashmapy/CMakeFiles/rebuild_cache.dir
